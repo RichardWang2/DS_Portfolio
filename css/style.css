@@ -273,7 +273,7 @@ textarea {
         font-weight: 700;
         margin: 0 3px; }
       .about__content-details-para:last-child {
-        margin-bottom: 4rem; }
+        margin-bottom: 6rem; }
     .about__content-schools {
           font-size: 2.2rem;
           color: grey;
@@ -284,7 +284,7 @@ textarea {
             font-weight: 700;
             margin: 0 3px; }
           .about__content-schools:last-child {
-            margin-bottom: 4rem; }
+            margin-bottom: 1rem; }
 
 .projects__row {
   display: grid;
