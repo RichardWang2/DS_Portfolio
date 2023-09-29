@@ -278,8 +278,7 @@ textarea {
           font-size: 2.2rem;
           color: grey;
           max-width: 60rem;
-          line-height: 1.7;
-          margin-bottom: 1rem; }
+          line-height: 1.7;}
 
 .projects__row {
   display: grid;
